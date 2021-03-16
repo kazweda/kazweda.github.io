@@ -4,7 +4,7 @@ title: Chart.js
 permalink: /chartjs/
 ---
 
-<script src="../node_modules/chart.js/dist/Chart.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js"></script>
 <canvas id="myChart" width="400" height="400"></canvas>
 <script>
 var ctx = document.getElementById('myChart').getContext('2d');
